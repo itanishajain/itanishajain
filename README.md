@@ -2,7 +2,7 @@
 <h3 align="center">Enraptured by an ardent affection for unraveling enigmas with the art of coding</h3>
 <img align="right" alt="Coding" width="400" src="https://www.entropygames.net/img/hyper5.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishajain23&label=Profile%20views&color=0e75b6&style=flat" alt="tanishajain23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itanishajain&label=Profile%20views&color=0e75b6&style=flat" alt="tanishajain23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itanishajain" target="blank"><img src="https://img.shields.io/twitter/follow/itanishajain?logo=twitter&style=for-the-badge" alt="itanishajain" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Designing**
 
-- 👨‍💻 All of my projects are available at [github.com/TanishaJain23/TanishaJain23](github.com/TanishaJain23/TanishaJain23)
+- 👨‍💻 All of my projects are available at [github.com/itanishajain/itanishajain](github.com/itanishajain/itanishajain)
 
 - 💬 Ask me about **Web-designin**
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/tanisha-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanisha-jain" height="30" width="40" /></a>
 <a href="https://twitter.com/itanishajain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itanishajain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanishajain23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishajain23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itanishajain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itanishajain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/itanishajain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itanishajain" /></a><a href="https://ko-fi.com/itanishajain"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itanishajain" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishajain23&show_icons=true&locale=en&layout=compact" alt="tanishajain23" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itanishajain&show_icons=true&locale=en&layout=compact" alt="itanishajain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishajain23&show_icons=true&locale=en" alt="tanishajain23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itanishajain&show_icons=true&locale=en" alt="itanishajain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishajain23&" alt="tanishajain23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itanishajain&" alt="itanishajain" /></p>
