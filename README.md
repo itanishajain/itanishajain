@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Tanisha Jain</h1>
-<h3 align="center">Enraptured by an ardent affection for unraveling enigmas with the art of coding</h3>
+<h3 align="center">Enthusiastic CSE'26 student at Poornima Institute of Engineering and Technology, dedicated to the dynamic realm of technology. Proficient in Frontend Web Development and C, C++ and SQL, I've actively participated in workshops and hackathons to diversify my skill set. I am committed to continuous learning to stay ahead in the ever-evolving tech landscape.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://www.entropygames.net/img/hyper5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itanishajain&label=Profile%20views&color=0e75b6&style=flat" alt="tanishajain23" /> </p>
